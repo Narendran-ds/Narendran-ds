@@ -21,6 +21,8 @@
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Narendran-ds&color=8a2be2&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Narendran-ds?style=flat-square&color=8a2be2&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Narendran-ds?style=flat-square&color=8a2be2&label=STARS)
 
 </div>
 
@@ -192,14 +194,51 @@ Built production AI pipelines for BizOp Analytica, a client-facing analytics pro
   [![LeetCode](https://img.shields.io/badge/LeetCode-2D1B69?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR_USERNAME/)
 -->
 
-## GitHub Activity
+## GitHub Analytics
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Narendran-ds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DDB&icon_color=8A2BE2&text_color=C9A9FF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendran-ds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DDB&text_color=C9A9FF" width="42%"/>
+<img src="https://streak-stats.demolab.com?user=Narendran-ds&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=B39DDB&fire=B39DDB&currStreakLabel=C9A9FF" width="49%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendran-ds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DDB&text_color=C9A9FF" width="50%"/>
 </div>
 
 ---
+
+## GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Narendran-ds&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Followers,Stars,PullRequest,Issues,Experience"/>
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narendran-ds&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B39DDB&line=8A2BE2&point=C9A9FF"/>
+</div>
+
+---
+
+<!--
+  CONTRIBUTION SNAKE — this image only exists if you have the generator
+  GitHub Action set up. If the Action isn't running, this renders broken.
+  Setup: create .github/workflows/snake.yml using Platane/snk, output to
+  the "output" branch. Uncomment once the Action has run successfully.
+
+  ## Contribution Snake
+
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/Narendran-ds/Narendran-ds/output/github-contribution-grid-snake-dark.svg"/>
+  </div>
+
+  ---
+-->
+
+
 
 ## Currently
 
