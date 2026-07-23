@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Narendran%20L&fontSize=60&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20GenAI%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Narendran%20L&fontSize=60&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer%20%7C%20Java%20%2B%20Python&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=650&lines=Building+the+AI+Answer+Auditor;FastAPI+%2B+LangGraph+%2B+Gemini;Final+Year+AI%2FDS+Engineer;Open+to+Remote+AI+%2F+GenAI+%2F+FDE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Boot+%2B+PostgreSQL;Computer+Vision+%2B+LLM+Pipelines;Final+Year+B.Tech+AI+%26+Data+Science;Open+to+Backend+%2F+AI+Engineer+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,16 +14,13 @@
 
 <br/>
 
-<a href="https://portfolio-six-bay-h8qds5rkq0.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/narendran-l1125" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:narendranlofficial@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Narendran-ds" target="_blank"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://zipforgex.in" target="_blank"><img src="https://img.shields.io/badge/ZipForgeX-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Narendran-ds&color=8a2be2&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Narendran-ds?style=flat-square&color=8a2be2&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Narendran-ds?style=flat-square&color=8a2be2&label=STARS)
 
 </div>
 
@@ -31,295 +28,202 @@
 
 ---
 
-## 🟣 About Me
+## About
 
-<div align="center">
-<img src="https://img.shields.io/badge/-SOFTWARE%20ENGINEERING-2D1B69?style=flat-square"/>
-<img src="https://img.shields.io/badge/-ARTIFICIAL%20INTELLIGENCE-4C1D95?style=flat-square"/>
-<img src="https://img.shields.io/badge/-FULL%20STACK%20DEVELOPMENT-6D28D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/-PRODUCT%20ENGINEERING-7C3AED?style=flat-square"/>
-</div>
+I'm **Narendran L**, a final-year **B.Tech Artificial Intelligence & Data Science** student at Rajalakshmi Institute of Technology, Chennai.
 
-<br/>
+I build and deploy complete systems rather than notebooks. Two projects represent most of my engineering work:
 
-I'm **Narendran L**, a final-year **B.Tech Artificial Intelligence & Data Science** engineer from Rajalakshmi Institute of Technology, Chennai, focused on building production-grade AI systems and full-stack products rather than isolated notebooks and demos.
+- **ZipForgeX** — a Spring Boot + React SaaS running in production under a custom domain, with JWT/Spring Security auth, Google and GitHub OAuth2, and PostgreSQL.
+- **ChainSight** — a five-layer computer vision pipeline that turns warehouse video into auditable safety events, with a fine-tuned YOLOv8 detector and 58 passing tests.
 
-My engineering approach centers on **shipping deployed, end-to-end systems** — from LLM orchestration pipelines and multi-agent architectures to full-stack SaaS platforms with real authentication, real databases, and real users. I've built Gemini API pipelines and OCR-based extraction systems in a production internship, architected a five-layer Reality Intelligence Engine spanning computer vision through causal world-modeling, and shipped a fully deployed SaaS product from backend to DNS.
+Between them I've handled the parts that don't show up in tutorials: a production Spring Security filter chain failure, a full credential rotation after a secrets exposure, a database migration when a free tier ran out of compute, and a dataset leakage bug that would have quietly inflated my model metrics.
 
-I think in systems: how a vision layer feeds a physics layer, how a stale JWT breaks a session, how a retrieval agent should hand off to a verification agent. I care about **correctness, deployment discipline, and interview-grade fundamentals** as much as clever model architecture.
+I care about correctness, deployment discipline, and being able to defend every number I publish.
 
 ```yaml
-Focus Areas:
-  - LLM Orchestration (LangGraph, Multi-Agent Systems)
-  - Full Stack Engineering (Spring Boot, React, Next.js)
-  - Applied Computer Vision & NLP
-  - Cloud-Native Deployment & DevOps
+Working with:
+  - Java, Spring Boot, Spring Security, REST APIs, PostgreSQL
+  - Python, YOLOv8, Gemini API, PaddleOCR
+  - React, Vite, Tailwind
+  - Git, Render, Vercel, Supabase
 ```
 
-**🎯 Open To:** Remote **AI Engineer**, **GenAI Engineer**, and **Forward Deployed Engineer (FDE)** roles at US-linked GCC subsidiaries and funded AI-native startups — targeting a 3–5 year stability horizon.
+**Open to:** Backend Engineer, AI/GenAI Engineer, and Software Engineer roles — graduating 2027.
 
 ---
 
-## 🟣 Tech Stack
+## Tech Stack
 
 <div align="center">
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp&theme=dark"/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark"/>
 
 **Backend & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,postgresql,mongodb,neo4j&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=spring,postgresql&theme=dark"/>
 
-**Cloud, DevOps & Tooling**
+**Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,render,postman,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
+
+**Tooling & Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-## 🟣 AI / ML Expertise
+## Projects
 
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **LLM Orchestration** | ⭐⭐⭐⭐⭐ | LangGraph multi-agent pipelines, sequential agent design (Extractor → Retriever → Verifier) |
-| **Generative AI APIs** | ⭐⭐⭐⭐⭐ | Gemini API integration, prompt pipelines, structured output generation |
-| **Computer Vision** | ⭐⭐⭐⭐ | YOLOv8, ByteTrack, MediaPipe, SAM, PaddleOCR |
-| **RAG & Retrieval** | ⭐⭐⭐⭐ | Semantic Scholar verification pipelines, retrieval-augmented claim checking |
-| **Knowledge Graphs** | ⭐⭐⭐ | Neo4j-based causal reasoning & event sourcing (World Layer, RIE) |
-| **Classical ML** | ⭐⭐⭐⭐ | XGBoost risk scoring, SHAP explainability |
-| **Time Series & Signal Modeling** | ⭐⭐⭐ | Kalman filters, trajectory & collision modeling, LSTM pattern mining |
-
-</div>
-
----
-
-## 🟣 Featured Projects
-
-<details>
-<summary><b>🧠 AI Answer Auditor — Chrome Extension for LLM Hallucination Detection</b></summary>
+<details open>
+<summary><b>ZipForgeX — Full-Stack Folder-to-ZIP Platform</b></summary>
 <br/>
 
-A Manifest V3 Chrome extension that injects an audit button directly into the ChatGPT UI, extracts factual claims from AI responses, verifies them against real academic sources via Semantic Scholar, and renders a hallucination report card.
+Converts indented folder-structure text into downloadable ZIP archives. Live in production on Render + Vercel under a custom domain.
 
 | Category | Detail |
 |---|---|
-| **Stack** | FastAPI, LangGraph, Gemini API, Chrome Manifest V3, Semantic Scholar API |
-| **Scale** | 3-agent sequential pipeline (Extractor, Retriever, Verifier) |
-| **Performance** | Claim-level verification with source-grounded scoring |
-| **Security** | Sandboxed content-script injection, no credential exposure |
-| **Impact** | Real-time hallucination transparency layer for LLM consumers |
-| **Repository** | [github.com/Narendran-ds](https://github.com/Narendran-ds) |
+| **Backend** | Spring Boot 3.5, Java 17, Maven, JUnit |
+| **Frontend** | React + Vite + Tailwind v4 |
+| **Auth** | JWT + Spring Security, Google OAuth2, GitHub OAuth2 |
+| **Database** | PostgreSQL on Supabase |
+| **Security** | Zip Slip path-traversal protection; full credential rotation after a secrets exposure incident |
+| **Testing** | 12 passing JUnit tests |
+| **Live** | [zipforgex.in](https://zipforgex.in) |
 
-An architecture built around agent specialization — one agent extracts atomic claims, another retrieves grounding evidence, and a third verifies and scores each claim — producing a transparent, auditable trust layer over conversational AI output.
+Notable work beyond the feature list: diagnosing a production Spring Security `addFilterBefore` overload crash, fixing a 401 on authenticated history fetches via a custom `RestAuthenticationEntryPoint`, and migrating the database from Neon to Supabase after exhausting a compute quota.
 
 </details>
 
 <details>
-<summary><b>📦 ZipForgeX — Full-Stack Folder-to-ZIP SaaS Platform</b></summary>
+<summary><b>ChainSight — Five-Layer Warehouse Safety Pipeline</b></summary>
 <br/>
 
-A production-deployed full-stack application that converts folder structure text into downloadable ZIP archives, complete with authentication, OAuth, and history tracking.
+Turns raw warehouse video into auditable safety events through a layered pipeline: Vision → Spatial → World Graph → Rule Engine → Narration.
 
 | Category | Detail |
 |---|---|
-| **Stack** | Spring Boot 3.5.11, Java 17, React + Vite, Tailwind v4, PostgreSQL |
-| **Scale** | Full auth system — Email, Google OAuth, GitHub OAuth |
-| **Performance** | 12/12 automated tests passing, stable production uptime |
-| **Security** | JWT auth with Axios 401 interceptor & auto-expiry handling |
-| **Impact** | Live production SaaS with active user accounts & ZIP history |
-| **Repository** | [zipforgex.in](https://zipforgex.in) |
+| **Stack** | Python, YOLOv8, Shapely/STRtree, NetworkX, Gemini Flash, Streamlit |
+| **Detector** | Fine-tuned YOLOv8 on a merged 17-class, 13,731-image dataset |
+| **Metrics** | mAP@50 = 0.7678 (exit-zone markers: AP@50 = 0.8892) |
+| **Rule Engine** | Deterministic rules R1–R5, each event carrying explicit trigger, evidence, and conclusion |
+| **Testing** | 58 passing tests |
+| **Deployment** | Live on Streamlit Community Cloud |
+| **Repository** | [github.com/Narendran-ds/chainsight](https://github.com/Narendran-ds/chainsight) |
 
-Migrated from Railway to Render and Neon to Supabase (PostgreSQL 17.6, Singapore region) to resolve compute quota limits — a real-world lesson in infrastructure resilience and cost-aware architecture decisions.
+The design decision I'd defend first: the narration layer uses an LLM but is constrained to *rephrase only*. It cannot introduce facts the rule engine didn't produce. Every claim in the output traces back to a deterministic rule, so the system stays auditable.
+
+Dataset splitting was done three-way with leakage checks — an earlier naive split was inflating validation metrics.
 
 </details>
 
 <details>
-<summary><b>🌐 Reality Intelligence Engine (RIE) — 5-Layer Domain-Agnostic AI Architecture</b></summary>
+<summary><b>AI Response Watchdog — Final-Year Project (in progress)</b></summary>
 <br/>
 
-A domain-agnostic system architecture where a Vision layer feeds a Physics layer, which updates a persistent World graph, tracked over Time, with a Meta orchestrator deciding which layer activates.
+A browser extension that watches AI chatbot responses, extracts checkable claims, and verifies each against independent sources — surfacing results through a guardian mascot that reacts to verification status.
 
 | Category | Detail |
 |---|---|
-| **Stack** | YOLOv8, SAM, PaddleOCR, Kalman Filters, Neo4j, LSTM, RAG, NVIDIA NIM, CLIP |
-| **Scale** | 5-layer architecture (Vision, Physics, World, Time, Language) |
-| **Performance** | Cross-layer event-driven orchestration |
-| **Security** | Isolated layer boundaries with orchestrator-mediated access |
-| **Impact** | Applied to the Manufacturing domain as a strategic industry vertical |
-| **Repository** | Private / In Development |
+| **Status** | Early development, started July 2026 |
+| **Team** | 3 people — my module is aggregation, scoring, and reason generation |
+| **Approach** | Single-model multi-source aggregation with source-authority weighting |
+| **Design principle** | Never claims absolute truth — only whether an independent source agrees. Biased toward "unverified" over "wrong" to minimise false positives. |
 
-Designed from a strategic framework, this architecture models the physical world as compositional layers — enabling causal reasoning and temporal pattern detection beyond single-model pipelines.
+Architecture and mascot states are designed; the detection engine is being built. I'll update this section with results rather than intentions.
 
 </details>
 
 <details>
-<summary><b>🏥 CareGuard — Hospital Readmission Prevention System</b></summary>
+<summary><b>Earlier Projects</b></summary>
 <br/>
 
-A hackathon-built (Technoverse 2026) clinical decision-support concept using a 14-node Langflow workflow to predict and prevent hospital readmissions.
-
-| Category | Detail |
-|---|---|
-| **Stack** | Langflow, XGBoost, SHAP, Chat Memory |
-| **Scale** | 14-node orchestrated workflow |
-| **Performance** | Three-tier risk routing (LOW / MEDIUM / HIGH) |
-| **Security** | Feedback-loop validated risk scoring |
-| **Impact** | Explainable readmission-risk triage for care teams |
-| **Repository** | Team Mirai Kiths — Technoverse 2026 |
-
-Built with SHAP explainability at its core so that every risk score is interpretable by clinical staff, not just accurate on paper.
+- **Political Sentiment Intelligence Dashboard** — LinearSVC (78.75%) and Logistic Regression (74.56%) on a Ukraine–Russia tweet dataset, with SHAP explanations, served via Streamlit.
+- **Customer Churn Prediction** — XGBoost at 89% accuracy with SHAP explainability, deployed on Streamlit.
+- **English–French Neural Machine Translation** — sequence-to-sequence model in PyTorch.
 
 </details>
 
 ---
 
-## 🟣 Experience
+## Experience
 
-**AI Developer Intern** · Syncorb Geotech Pvt Ltd
-`2025 — 2026`
+**AI Developer Intern** · Syncorb Geotech Pvt Ltd, Chennai
+`Oct 2025 — May 2026`
 
-Built production AI pipelines for a client-facing analytics product (BizOp Analytica), focused on document intelligence and generative pipeline reliability.
+Built production AI pipelines for BizOp Analytica, a client-facing analytics product.
 
-- Designed and shipped Gemini API-based pipelines for structured data extraction
-- Built a PaddleOCR-based menu extraction system for real-world document parsing
-- Collaborated on production-grade GenAI integration under real client constraints
+- Designed a Gemini API pipeline generating 500+ global cuisines and up to 500 dishes per cuisine, replacing a manual BeautifulSoup/Scrapy workflow — with history tracking so completed entries are skipped on reruns, cutting redundant API calls.
+- Rebuilt the restaurant menu extraction pipeline from scratch using PaddleOCR after third-party API access was restricted, adding folder-based batch processing to turn an incomplete prototype into a working system.
+- Owned prompt design, output validation, error handling, and pipeline reliability end to end.
 
 <img src="https://img.shields.io/badge/-Gemini%20API-6D28D9?style=flat-square"/> <img src="https://img.shields.io/badge/-PaddleOCR-4C1D95?style=flat-square"/> <img src="https://img.shields.io/badge/-Python-2D1B69?style=flat-square"/>
 
 ---
 
-## 🟣 Achievements
-
-<div align="center">
+## Achievements
 
 | Recognition | Details |
 |---|---|
-| 🏆 Technoverse 2026 Hackathon | Built CareGuard with Team Mirai Kiths — XGBoost + SHAP readmission risk system |
-| 🚀 PROTOSPARK — Velammal Institute of Technology | Presented ZipForgeX in the ICT category |
-| 💻 Cognizant Digital Nurture 5.0 | Cleared Rounds 1 & 2, Python Full Stack Engineer Track |
-| 🌐 Production SaaS Deployment | ZipForgeX fully live across Vercel, Render, and Supabase |
-
-</div>
+| Cognizant Technoverse 2026 | Shortlisted to represent Rajalakshmi Institute of Technology at a national hackathon with 22,000+ participants |
+| Cognizant Digital Nurture 5.0 | Cleared Rounds 1 & 2 |
+| PROTOSPARK, Velammal Institute of Technology | Presented ZipForgeX in the ICT category |
+| Production Deployment | ZipForgeX live across Vercel, Render, and Supabase |
 
 ---
 
-## 🟣 Certifications
+<!--
+  CERTIFICATIONS — add back only the ones you actually hold and can produce
+  a verification link or credential ID for. Delete the rest.
 
-**AWS**
-<br/>
-![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ## Certifications
+  ![NPTEL](https://img.shields.io/badge/NPTEL-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
+-->
 
-**Oracle**
-<br/>
-![Oracle](https://img.shields.io/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<!--
+  CODING PROFILES — add back once you have real profiles with real links.
+  Point them at YOUR profile URL, never the platform homepage.
 
-**NPTEL**
-<br/>
-![NPTEL](https://img.shields.io/badge/NPTEL%20Certified-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
+  ## Coding Profiles
+  [![LeetCode](https://img.shields.io/badge/LeetCode-2D1B69?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR_USERNAME/)
+-->
 
-**Cisco**
-<br/>
-![Cisco](https://img.shields.io/badge/Cisco%20Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-## 🟣 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-2D1B69?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
-
-</div>
-
----
-
-## 🟣 GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Narendran-ds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DDB&icon_color=8A2BE2&text_color=C9A9FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Narendran-ds&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=B39DDB&fire=B39DDB&currStreakLabel=C9A9FF" width="49%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendran-ds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DDB&text_color=C9A9FF" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendran-ds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DDB&text_color=C9A9FF" width="42%"/>
 </div>
 
 ---
 
-## 🟣 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Narendran-ds&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Followers,Stars,PullRequest,Issues,Experience"/>
-</div>
-
----
-
-## 🟣 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narendran-ds&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B39DDB&line=8A2BE2&point=C9A9FF"/>
-</div>
-
----
-
-## 🟣 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Narendran-ds/Narendran-ds/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
----
-
-## 🟣 Current Focus
+## Currently
 
 ```yaml
-current_focus:
-  learning:
-    - Advanced LangGraph multi-agent orchestration patterns
-    - NumPy foundations & applied data engineering
-    - System design for AI-native products
-  building:
-    - AI Answer Auditor (Chrome MV3 + FastAPI + LangGraph)
-    - Portfolio v2 with custom Vision Reticle cursor system
-  exploring:
-    - Forward Deployed Engineer (FDE) career track
-    - Reality Intelligence Engine — Manufacturing vertical
-  open_to:
-    - Remote AI Engineer / GenAI Engineer roles
-    - Forward Deployed Engineer positions
-    - US-linked GCCs & funded AI-native startups
+building:
+  - ZipForgeX v2 (AI folder generation, account management)
+  - AI Response Watchdog (final-year project)
+  - Portfolio site
+
+learning:
+  - Data structures & algorithms in Java
+  - Backend system design
+
+open_to:
+  - Backend Engineer / Software Engineer roles
+  - AI & GenAI Engineer roles
 ```
 
 ---
-
-## 🟣 Connect
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/narendranlofficial%40gmail.com-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narendranlofficial@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/narendran--l1125-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narendran-l1125)
-[![GitHub](https://img.shields.io/badge/Narendran--ds-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Narendran-ds)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-bay-h8qds5rkq0.vercel.app)
-
-</div>
-
----
-
-<div align="center">
-
-*"Systems that think in layers outlast models that think in guesses."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
 
