@@ -94,7 +94,6 @@ Converts indented folder-structure text into downloadable ZIP archives. Live in 
 | **Auth** | JWT + Spring Security, Google OAuth2, GitHub OAuth2 |
 | **Database** | PostgreSQL on Supabase |
 | **Security** | Zip Slip path-traversal protection; full credential rotation after a secrets exposure incident |
-| **Testing** | 12 passing JUnit tests |
 | **Live** | [zipforgex.in](https://zipforgex.in) |
 
 Notable work beyond the feature list: diagnosing a production Spring Security `addFilterBefore` overload crash, fixing a 401 on authenticated history fetches via a custom `RestAuthenticationEntryPoint`, and migrating the database from Neon to Supabase after exhausting a compute quota.
@@ -141,12 +140,10 @@ Architecture and mascot states are designed; the detection engine is being built
 </details>
 
 <details>
-<summary><b>Earlier Projects</b></summary>
+<summary><b>Political Sentiment Intelligence Dashboard</b></summary>
 <br/>
 
-- **Political Sentiment Intelligence Dashboard** — LinearSVC (78.75%) and Logistic Regression (74.56%) on a Ukraine–Russia tweet dataset, with SHAP explanations, served via Streamlit.
-- **Customer Churn Prediction** — XGBoost at 89% accuracy with SHAP explainability, deployed on Streamlit.
-- **English–French Neural Machine Translation** — sequence-to-sequence model in PyTorch.
+LinearSVC model (78.75% accuracy) on a Ukraine–Russia tweet dataset (1,433 tweets), served via Streamlit.
 
 </details>
 
@@ -166,33 +163,6 @@ Built production AI pipelines for BizOp Analytica, a client-facing analytics pro
 <img src="https://img.shields.io/badge/-Gemini%20API-6D28D9?style=flat-square"/> <img src="https://img.shields.io/badge/-PaddleOCR-4C1D95?style=flat-square"/> <img src="https://img.shields.io/badge/-Python-2D1B69?style=flat-square"/>
 
 ---
-
-## Achievements
-
-| Recognition | Details |
-|---|---|
-| Cognizant Technoverse 2026 | Shortlisted to represent Rajalakshmi Institute of Technology at a national hackathon with 22,000+ participants |
-| Cognizant Digital Nurture 5.0 | Cleared Rounds 1 & 2 |
-| PROTOSPARK, Velammal Institute of Technology | Presented ZipForgeX in the ICT category |
-| Production Deployment | ZipForgeX live across Vercel, Render, and Supabase |
-
----
-
-<!--
-  CERTIFICATIONS — add back only the ones you actually hold and can produce
-  a verification link or credential ID for. Delete the rest.
-
-  ## Certifications
-  ![NPTEL](https://img.shields.io/badge/NPTEL-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
--->
-
-<!--
-  CODING PROFILES — add back once you have real profiles with real links.
-  Point them at YOUR profile URL, never the platform homepage.
-
-  ## Coding Profiles
-  [![LeetCode](https://img.shields.io/badge/LeetCode-2D1B69?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR_USERNAME/)
--->
 
 ## GitHub Analytics
 
@@ -223,30 +193,13 @@ Built production AI pipelines for BizOp Analytica, a client-facing analytics pro
 
 ---
 
-<!--
-  CONTRIBUTION SNAKE — this image only exists if you have the generator
-  GitHub Action set up. If the Action isn't running, this renders broken.
-  Setup: create .github/workflows/snake.yml using Platane/snk, output to
-  the "output" branch. Uncomment once the Action has run successfully.
-
-  ## Contribution Snake
-
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/Narendran-ds/Narendran-ds/output/github-contribution-grid-snake-dark.svg"/>
-  </div>
-
-  ---
--->
-
-
-
 ## Currently
 
 ```yaml
 building:
   - ZipForgeX v2 (AI folder generation, account management)
   - AI Response Watchdog (final-year project)
-  - Portfolio site
+  - Razorpay AI Buildathon 2026 submission (agent supervisor / kill switch)
 
 learning:
   - Data structures & algorithms in Java
