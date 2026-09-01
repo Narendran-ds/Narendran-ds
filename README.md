@@ -130,7 +130,7 @@ A browser extension that watches AI chatbot responses, extracts checkable claims
 
 | Category | Detail |
 |---|---|
-| **Status** | Early development, started July 2026 |
+| **Status** | In active development |
 | **Team** | 3 people — my module is aggregation, scoring, and reason generation |
 | **Approach** | Single-model multi-source aggregation with source-authority weighting |
 | **Design principle** | Never claims absolute truth — only whether an independent source agrees. Biased toward "unverified" over "wrong" to minimise false positives. |
@@ -167,12 +167,12 @@ Built production AI pipelines for BizOp Analytica, a client-facing analytics pro
 ## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Narendran-ds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DDB&icon_color=8A2BE2&text_color=C9A9FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Narendran-ds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DDB&icon_color=8A2BE2&text_color=C9A9FF&cache_seconds=86400" width="49%"/>
 <img src="https://streak-stats.demolab.com?user=Narendran-ds&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=B39DDB&fire=B39DDB&currStreakLabel=C9A9FF" width="49%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendran-ds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DDB&text_color=C9A9FF" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendran-ds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DDB&text_color=C9A9FF&cache_seconds=86400" width="50%"/>
 </div>
 
 ---
@@ -197,12 +197,11 @@ Built production AI pipelines for BizOp Analytica, a client-facing analytics pro
 
 ```yaml
 building:
-  - ZipForgeX v2 (AI folder generation, account management)
   - AI Response Watchdog (final-year project)
   - Razorpay AI Buildathon 2026 submission (agent supervisor / kill switch)
 
 learning:
-  - Data structures & algorithms in Java
+  - Data structures & algorithms in Python
   - Backend system design
 
 open_to:
