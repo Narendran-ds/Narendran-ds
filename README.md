@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Narendran%20L&fontSize=60&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer%20%7C%20Java%20%2B%20Python&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Narendran%20L&fontSize=60&fontColor=C9A9FF&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer%20%7C%20Java%20%2B%20Python&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Boot+%2B+PostgreSQL;Computer+Vision+%2B+LLM+Pipelines;Final+Year+B.Tech+AI+%26+Data+Science;Open+to+Backend+%2F+AI+Engineer+Roles" alt="Typing SVG" />
@@ -173,22 +173,6 @@ Built production AI pipelines for BizOp Analytica, a client-facing analytics pro
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendran-ds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DDB&text_color=C9A9FF&cache_seconds=86400" width="50%"/>
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Narendran-ds&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Followers,Stars,PullRequest,Issues,Experience"/>
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narendran-ds&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B39DDB&line=8A2BE2&point=C9A9FF"/>
 </div>
 
 ---
