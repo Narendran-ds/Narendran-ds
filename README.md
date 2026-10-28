@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Narendran%20L&fontSize=60&fontColor=C9A9FF&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer%20%7C%20Java%20%2B%20Python&descAlignY=58&descSize=18" width="100%"/>
+<h1>Narendran L</h1>
+
+<b>Backend &amp; AI Engineer | Java + Python</b>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Boot+%2B+PostgreSQL;Computer+Vision+%2B+LLM+Pipelines;Final+Year+B.Tech+AI+%26+Data+Science;Open+to+Backend+%2F+AI+Engineer+Roles" alt="Typing SVG" />
